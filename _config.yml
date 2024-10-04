@@ -118,7 +118,7 @@ index:
         # 首页导航栏文字颜色
         nav-color: "rgba(255, 255, 255, .5)"
         # 首页 banner 区背景颜色
-        background-color: "#4183c4"
+        background-color: "#7c89D0"
         # 首页 banner 区背景图片
         # background-image: "/assets/images/octicons-bg.png"
         # background-repeat: "no-repeat"
@@ -184,8 +184,8 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: Insaria/Insaria.github.io
+    repo-id: R_kgDOM7dgnw
     category: Announcements
     category-id: DIC_kwDOBY0E7c4CRtg9
 # 在使用其它评论组件时可点击显示 Disqus
